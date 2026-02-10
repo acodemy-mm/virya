@@ -1,0 +1,67 @@
+{
+  "Typography": {
+    "KBZ Bank": {
+      "Typography": {
+        "Font Size": {
+          "Header": {
+            "Typography": {
+              "Style": {
+                "Italic": "italic",
+                "Bold": "bold",
+                "Semibold": "semibold",
+                "Medium": "medium",
+                "Regular": "regular",
+                "Light": "light"
+              },
+              "Font": {
+                "Typeface": "Poppins"
+              }
+            }
+          }
+        }
+      }
+    },
+    "KBZ Pay": {
+      "Typography": {
+        "Font Size": {
+          "Header": {
+            "Typography": {
+              "Style": {
+                "Italic": "italic",
+                "Bold": "bold",
+                "Semibold": "semibold",
+                "Medium": "medium",
+                "Regular": "regular",
+                "Light": "light"
+              },
+              "Font": {
+                "Typeface": "Nunito"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Premium Bank": {
+      "Typography": {
+        "Font Size": {
+          "Header": {
+            "Typography": {
+              "Style": {
+                "Italic": "italic",
+                "Bold": "bold",
+                "Semibold": "semibold",
+                "Medium": "medium",
+                "Regular": "regular",
+                "Light": "light"
+              },
+              "Font": {
+                "Typeface": "Inter"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
