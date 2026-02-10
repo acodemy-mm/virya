@@ -1,0 +1,25 @@
+{
+  "Core": {
+    "KBZ Bank": {
+      "Numeric": {
+        "Size": {
+          "line": "150%"
+        }
+      }
+    },
+    "KBZ Pay": {
+      "Numeric": {
+        "Size": {
+          "line": "String value"
+        }
+      }
+    },
+    "Premium Bank": {
+      "Numeric": {
+        "Size": {
+          "line": "String value"
+        }
+      }
+    }
+  }
+}
