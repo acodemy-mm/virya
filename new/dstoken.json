@@ -668,7 +668,7 @@
         },
         "Surface": {
           "breadcrumbs-surface-default": "{Color/Surface/Neutral/surface-neutral-soft}",
-          "breadcrumbs-surface- active": "{Color/Surface/Primary/surface-primary-base}"
+          "breadcrumbs-surface-active": "{Color/Surface/Primary/surface-primary-base}"
         }
       },
       "Pagination": {
@@ -720,7 +720,7 @@
         "Text": {
           "cbox-text-enable": "{Color/Text/Neutral/text-neutral-emphasis}",
           "cbox-text-selected": "{Color/Text/Primary/text-primary-base}",
-          "cbox-text- disable": "{Color/Text/Neutral/text-neutral-base}"
+          "cbox-text-disable": "{Color/Text/Neutral/text-neutral-base}"
         },
         "Icon": {
           "cbox-icon-enable": "{Color/Icon/Neutral/icon-neutral-emphasis}",
@@ -732,13 +732,13 @@
         "Surface": {
           "snackbar-surface-success": "{Color/Surface/Success/surface-success-minimal}",
           "snackbar-surface-error": "{Color/Surface/Critical/surface-critical-minimal}",
-          "snackbar-surface- info": "{Color/Surface/Info/surface-info-minimal}",
-          "snackbar-surface- warning": "{Color/Surface/Warning/surface-warning-minimal}"
+          "snackbar-surface-info": "{Color/Surface/Info/surface-info-minimal}",
+          "snackbar-surface-warning": "{Color/Surface/Warning/surface-warning-minimal}"
         },
         "Border": {
           "snackbar-border-success": "{Color/Border/Success/border-success-base}",
           "snackbar-border-error": "{Color/Border/Critical/border-critical-base}",
-          "snackbar-border- info": "{Color/Border/Info/border-info-base}",
+          "snackbar-border-info": "{Color/Border/Info/border-info-base}",
           "snackbar-border-warning": "{Color/Border/Warning/border-warning-base}"
         },
         "Text": {
