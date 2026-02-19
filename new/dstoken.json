@@ -547,7 +547,7 @@
     }
   },
   "Component": {
-    "Mode 1": {
+    "Mode1": {
       "Button": {
         "Surface": {
           "btn-bg-primary-enable": "{Color/Surface/Primary/surface-primary-base}",
