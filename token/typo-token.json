@@ -1,0 +1,72 @@
+{
+  "Typography": {
+    "KBZBank": {
+      "Typography": {
+        "Style": {
+          "Italic": "italic",
+          "Bold": "bold",
+          "Semibold": "semibold",
+          "Medium": "medium",
+          "Regular": "regular",
+          "Light": "light"
+        },
+        "Font": {
+          "Typeface": "Poppins"
+        }
+      }
+    },
+    "KBZPay": {
+      "Typography": {
+        "Style": {
+          "Italic": "italic",
+          "Bold": "bold",
+          "Semibold": "semibold",
+          "Medium": "medium",
+          "Regular": "regular",
+          "Light": "light"
+        },
+        "Font": {
+          "Typeface": "Nunito"
+        }
+      }
+    },
+    "PremiumBank": {
+      "Typography": {
+        "Style": {
+          "Italic": "italic",
+          "Bold": "bold",
+          "Semibold": "semibold",
+          "Medium": "medium",
+          "Regular": "regular",
+          "Light": "light"
+        },
+        "Font": {
+          "Typeface": "Inter"
+        }
+      }
+    }
+  },
+  "Core": {
+    "KBZBank": {
+      "Numeric": {
+        "Size": {
+          "line": "150%"
+        }
+      }
+    },
+    "KBZPay": {
+      "Numeric": {
+        "Size": {
+          "line": "String value"
+        }
+      }
+    },
+    "PremiumBank": {
+      "Numeric": {
+        "Size": {
+          "line": "String value"
+        }
+      }
+    }
+  }
+}
