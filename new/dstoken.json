@@ -1,6 +1,6 @@
 {
   "Core": {
-    "KBZ Bank": {
+    "KBZBank": {
       "Color": {
         "Primary": {
           "primary-50": "#fafcff",
@@ -100,7 +100,7 @@
         }
       }
     },
-    "KBZ Pay": {
+    "KBZPay": {
       "Color": {
         "Primary": {
           "primary-50": "#fafdff",
@@ -200,7 +200,7 @@
         }
       }
     },
-    "Premium Bank": {
+    "PremiumBank": {
       "Color": {
         "Primary": {
           "primary-50": "#fbfcfe",
@@ -547,7 +547,7 @@
     }
   },
   "Component": {
-    "Mode 1": {
+    "Mode1": {
       "Button": {
         "Surface": {
           "btn-bg-primary-enable": "{Color/Surface/Primary/surface-primary-base}",
@@ -583,7 +583,7 @@
           "btn-icon-primary-hover": "{Color/Icon/Primary/icon-primary-strong}",
           "btn-icon-success-hover": "{Color/Icon/Success/icon-success-strong}",
           "btn-icon-critical-hover": "{Color/Border/Critical/border-critical-strong}",
-          "btn-icon-disable": "{Color/Icon/Neutral/icon-neutral-base}",
+          "btn-icon-disable": "{Color/Icon/Neutral/icon-neutral-soft}",
           "btn-icon-invert-enable": "{Color/Icon/Neutral/icon-neutral-minimal}",
           "btn-icon-invert-hover": "{Color/Icon/Neutral/icon-neutral-light}",
           "btn-icon-accent": "{Color/Icon/Primary/icon-primary-base}",
@@ -655,8 +655,8 @@
           "status-icon-neutral": "{Color/Icon/Neutral/icon-neutral-intense}"
         }
       },
-      "Avatar -": {
-        "avatar-surface-": "#ffffff"
+      "Avatar": {
+        "avatar-surface": "#ffffff"
       },
       "Breadcrumbs": {
         "Text": {
@@ -668,7 +668,7 @@
         },
         "Surface": {
           "breadcrumbs-surface-default": "{Color/Surface/Neutral/surface-neutral-soft}",
-          "breadcrumbs-surface- active": "{Color/Surface/Primary/surface-primary-base}"
+          "breadcrumbs-surface-active": "{Color/Surface/Primary/surface-primary-base}"
         }
       },
       "Pagination": {
@@ -704,7 +704,7 @@
           "tab-icon-active": "{Color/Icon/Primary/icon-primary-base}"
         }
       },
-      "Radio Button": {
+      "RadioButton": {
         "Text": {
           "rbtn-text-enable": "{Color/Text/Neutral/text-neutral-emphasis}",
           "rbtn-text-selected": "{Color/Text/Primary/text-primary-base}",
@@ -720,7 +720,7 @@
         "Text": {
           "cbox-text-enable": "{Color/Text/Neutral/text-neutral-emphasis}",
           "cbox-text-selected": "{Color/Text/Primary/text-primary-base}",
-          "cbox-text- disable": "{Color/Text/Neutral/text-neutral-base}"
+          "cbox-text-disable": "{Color/Text/Neutral/text-neutral-base}"
         },
         "Icon": {
           "cbox-icon-enable": "{Color/Icon/Neutral/icon-neutral-emphasis}",
@@ -732,13 +732,13 @@
         "Surface": {
           "snackbar-surface-success": "{Color/Surface/Success/surface-success-minimal}",
           "snackbar-surface-error": "{Color/Surface/Critical/surface-critical-minimal}",
-          "snackbar-surface- info": "{Color/Surface/Info/surface-info-minimal}",
-          "snackbar-surface- warning": "{Color/Surface/Warning/surface-warning-minimal}"
+          "snackbar-surface-info": "{Color/Surface/Info/surface-info-minimal}",
+          "snackbar-surface-warning": "{Color/Surface/Warning/surface-warning-minimal}"
         },
         "Border": {
           "snackbar-border-success": "{Color/Border/Success/border-success-base}",
           "snackbar-border-error": "{Color/Border/Critical/border-critical-base}",
-          "snackbar-border- info": "{Color/Border/Info/border-info-base}",
+          "snackbar-border-info": "{Color/Border/Info/border-info-base}",
           "snackbar-border-warning": "{Color/Border/Warning/border-warning-base}"
         },
         "Text": {
@@ -771,8 +771,8 @@
           "dd-text-error": "{Color/Text/Critical/text-critical-base}"
         },
         "Surface": {
-          "dd-surface - default": "{Color/Surface/Neutral/surface-neutral-light}",
-          "dd-surface - hover": "{Color/Surface/Primary/surface-primary-soft}"
+          "dd-surface-default": "{Color/Surface/Neutral/surface-neutral-light}",
+          "dd-surface-hover": "{Color/Surface/Primary/surface-primary-soft}"
         },
         "Icon": {
           "dd-icon-active": "{Color/Icon/Primary/icon-primary-base}",
@@ -780,9 +780,9 @@
           "dd-icon-error": "{Color/Icon/Critical/icon-critical-base}"
         },
         "Border": {
-          "dd-border - enable": "{Color/Border/Neutral/border-neutral-base}",
-          "dd-border - error": "{Color/Border/Critical/border-critical-base}",
-          "dd-border - popup": "{Color/Border/Neutral/border-neutral-subtle}"
+          "dd-border-enable": "{Color/Border/Neutral/border-neutral-base}",
+          "dd-border-error": "{Color/Border/Critical/border-critical-base}",
+          "dd-border-popup": "{Color/Border/Neutral/border-neutral-subtle}"
         }
       },
       "Search": {
@@ -833,7 +833,7 @@
           "tooltip-text-error": "{Color/Icon/Critical/icon-critical-base}"
         }
       },
-      "Nav Item": {
+      "NavItem": {
         "Text": {
           "nav-text-default": "{Color/Text/Neutral/text-neutral-emphasis}",
           "nav-text-active": "{Color/Text/Primary/text-primary-base}",
@@ -854,7 +854,7 @@
           "nav-surface-selected": "{Color/Surface/Neutral/surface-neutral-soft}"
         }
       },
-      "File Upload": {
+      "FileUpload": {
         "Surface": {
           "fileup-surface-default": "#ffffff"
         }

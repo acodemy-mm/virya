@@ -1,6 +1,6 @@
 {
   "Core": {
-    "KBZBank": {
+    "KBZ Bank": {
       "Numeric": {
         "Spacing": {
           "spacing-0": 0,
@@ -26,7 +26,7 @@
           "size-8": 48,
           "size-9": 56
         },
-        "BorderRadius": {
+        "Border Radius": {
           "radius-0": 0,
           "radius-1": 4,
           "radius-2": 8,
@@ -47,7 +47,7 @@
         }
       }
     },
-    "KBZPay": {
+    "KBZ Pay": {
       "Numeric": {
         "Spacing": {
           "spacing-0": 0,
@@ -73,7 +73,7 @@
           "size-8": 48,
           "size-9": 56
         },
-        "BorderRadius": {
+        "Border Radius": {
           "radius-0": 0,
           "radius-1": 4,
           "radius-2": 8,
@@ -94,7 +94,7 @@
         }
       }
     },
-    "PremiumBank": {
+    "Premium Bank": {
       "Numeric": {
         "Spacing": {
           "spacing-0": 0,
@@ -120,7 +120,7 @@
           "size-8": 48,
           "size-9": 56
         },
-        "BorderRadius": {
+        "Border Radius": {
           "radius-0": 0,
           "radius-1": 4,
           "radius-2": 8,
@@ -143,81 +143,9 @@
     }
   },
   "Typography": {
-    "KBZBank": {
+    "KBZ Bank": {
       "Typography": {
         "Font Size": {
-          "Header": {
-            "Typography": {
-              "LineHeight": {
-                "Label": {
-                  "Label 03": 18,
-                  "Label 02": 19,
-                  "Label 01": 21
-                },
-                "Overline": {
-                  "Overline 02": 19,
-                  "Overline 01": 21
-                },
-                "Body": {
-                  "Body 01": 24,
-                  "Body 02": 23
-                },
-                "Title": {
-                  "Title 01": 29,
-                  "Title 02": 26
-                },
-                "Header": {
-                  "H4": 45,
-                  "H3": 52,
-                  "H6": 36,
-                  "H1": 65,
-                  "H2": 58,
-                  "H5": 39
-                },
-                "Display": {
-                  "Display 01": 91,
-                  "Display 2": 78
-                }
-              },
-              "FontSize": {
-                "Overline": {
-                  "Overline 02": 12,
-                  "Overline 01": 13
-                },
-                "Header": {
-                  "H1": 40,
-                  "H5": 24,
-                  "H2": 36,
-                  "H4": 28,
-                  "H3": 32,
-                  "H6": 22
-                },
-                "Title": {
-                  "Title 02": 16,
-                  "Title 01": 18
-                },
-                "Label": {
-                  "Label 02": 12,
-                  "Label 01": 13,
-                  "Label 03": 11
-                },
-                "Body": {
-                  "Body 01": 15,
-                  "Body 02": 14
-                },
-                "Display": {
-                  "Display 02": 48,
-                  "Display 01": 56
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "KBZPay": {
-      "Typography": {
-        "FontSize": {
           "Header": {
             "Typography": {
               "Line Height": {
@@ -287,12 +215,12 @@
         }
       }
     },
-    "PremiumBanking": {
+    "KBZ Pay": {
       "Typography": {
-        "FontSize": {
+        "Font Size": {
           "Header": {
             "Typography": {
-              "LineHeight": {
+              "Line Height": {
                 "Label": {
                   "Label 03": 18,
                   "Label 02": 19,
@@ -323,7 +251,79 @@
                   "Display 2": 78
                 }
               },
-              "FontSize": {
+              "Font Size": {
+                "Overline": {
+                  "Overline 02": 12,
+                  "Overline 01": 13
+                },
+                "Header": {
+                  "H1": 40,
+                  "H5": 24,
+                  "H2": 36,
+                  "H4": 28,
+                  "H3": 32,
+                  "H6": 22
+                },
+                "Title": {
+                  "Title 02": 16,
+                  "Title 01": 18
+                },
+                "Label": {
+                  "Label 02": 12,
+                  "Label 01": 13,
+                  "Label 03": 11
+                },
+                "Body": {
+                  "Body 01": 15,
+                  "Body 02": 14
+                },
+                "Display": {
+                  "Display 02": 48,
+                  "Display 01": 56
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Premium Banking": {
+      "Typography": {
+        "Font Size": {
+          "Header": {
+            "Typography": {
+              "Line Height": {
+                "Label": {
+                  "Label 03": 18,
+                  "Label 02": 19,
+                  "Label 01": 21
+                },
+                "Overline": {
+                  "Overline 02": 19,
+                  "Overline 01": 21
+                },
+                "Body": {
+                  "Body 01": 24,
+                  "Body 02": 23
+                },
+                "Title": {
+                  "Title 01": 29,
+                  "Title 02": 26
+                },
+                "Header": {
+                  "H4": 45,
+                  "H3": 52,
+                  "H6": 36,
+                  "H1": 65,
+                  "H2": 58,
+                  "H5": 39
+                },
+                "Display": {
+                  "Display 01": 91,
+                  "Display 2": 78
+                }
+              },
+              "Font Size": {
                 "Overline": {
                   "Overline 02": 12,
                   "Overline 01": 13
@@ -361,10 +361,10 @@
     },
     "MM": {
       "Typography": {
-        "FontSize": {
+        "Font Size": {
           "Header": {
             "Typography": {
-              "LineHeight": {
+              "Line Height": {
                 "Label": {
                   "Label 03": 18,
                   "Label 02": 19,
@@ -395,7 +395,7 @@
                   "Display 2": 78
                 }
               },
-              "FontSize": {
+              "Font Size": {
                 "Overline": {
                   "Overline 02": 10,
                   "Overline 01": 11
